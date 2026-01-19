@@ -2,6 +2,8 @@
 
 Count tokens for text across multiple LLM providers in one command.
 
+![Demo](assets/demo.png)
+
 ## Install
 
 ### From Binary (Recommended)
